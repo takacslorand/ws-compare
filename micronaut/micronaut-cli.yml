@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.globant
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, graalvm, http-client-test, jackson-databind, java, java-application, jdbc-hikari, junit, lombok, mariadb, maven, netty-server, properties, readme, shade, slf4j-simple, test-resources]
